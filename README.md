@@ -12,13 +12,13 @@ The **To-Do App** allows users to:
 ## Screenshots
 
 ### Main Page
-![Main Page](assets\app.png)
+![Main Page](https://github.com/avpkn25/TODO-APP/blob/main/assets/app.png)
 
 ### Task Management
-![Task Management](assets\todos.png)
+![Task Management](https://github.com/avpkn25/TODO-APP/blob/main/assets/todos.png)
 
 ### Responsive Design
-![Responsive Design](assets\responsive.png)
+![Responsive Design]([assets\responsive.png](https://github.com/avpkn25/TODO-APP/blob/main/assets/responsive.png))
 
 ## Deployment
 The app is live! Check it out here: [https://todo-app-two-sand-87.vercel.app/](https://todo-app-two-sand-87.vercel.app/)
